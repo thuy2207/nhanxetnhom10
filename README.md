@@ -27,4 +27,4 @@
   <li>Cần bổ sung thêm dữ liệu để Bot trả lời phong phú, đa dạng hơn.</li>
 </ul>
 
-## 4. Chấm điểm : 8/10
+## 4. Chấm điểm : 9/10
